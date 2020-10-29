@@ -13,7 +13,7 @@
 
 ### Languages and Tools:
 
- |
+1 | 2
  :-----:|:-----:
 ![]<img align="left" alt="java" width="100px" src="https://docs.oracle.com/javase/tutorial/images/oracle-java-logo.png" />
 ![]<img align="left" alt="python" width="100px" src="https://www.python.org/static/img/python-logo.png"
